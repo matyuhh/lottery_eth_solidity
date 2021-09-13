@@ -1,2 +1,3 @@
 node_modules
-accounts_variables
+accounts_variables.js
+package-lock.json
